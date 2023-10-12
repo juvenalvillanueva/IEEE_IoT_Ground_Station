@@ -2,7 +2,7 @@
 
 ![Graphical abstract](/Imagenes/GraphicalAbstract2.png)
 
-Se presenta los recursos y la documentación adicional obtenidos como resultado por el desarrollo del manuscrito "An IoT Ground Station: Mechanics, Control, Antenna, and Reception from a LoRa Satellite Network" publicado en IEEE Latin America Transactions. Esta información se organiza en tres carpetas: 
+Se presentan los recursos y la documentación adicional obtenidos como resultado por el desarrollo del manuscrito "An IoT Ground Station: Mechanics, Control, Antenna, and Reception from a LoRa Satellite Network" publicado en IEEE Latin America Transactions. Esta información se organiza en tres carpetas: 
 
 1. Antena, donde podrá observar los archivos del diseño y simulación de este dispositivo.
 
