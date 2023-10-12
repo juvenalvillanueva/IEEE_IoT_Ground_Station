@@ -47,4 +47,5 @@ help rfplot
 - https://www.youtube.com/watch?v=vaLx3_F6-b4
 - https://www.youtube.com/watch?v=T5hyCiytaFk
 
-2. Se presentan los archivos .SLDRD 
+2. Se comparten los archivos de los planos en formato PDF de manera que puedan utilizarlos para fabricar y reproducir cada una de las piezas mecánicas. Así también, los archivos en formato SLDPRT los cuales pueden abrir mediante SOLIDWORKS para que puedan realizar los cambios en el diseño conforme a sus requerimientos.
+3. Para el control de las articulaciones, se utilizó una tarjeta de tipo ARDUINO, por lo que, el archivo del código del controlador PID esta en etse formato.
