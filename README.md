@@ -29,6 +29,9 @@ Se presentan los recursos y la documentación adicional obtenidos como resultado
   <img src="Imagenes/EstacionTer.png" width="400"/>
   <img src="Imagenes/pat.png" width="400"/>
   <img src="Imagenes/s11.png" width="400"/>
+ <img src="Imagenes/RespFunTrans.png" width="400"/>
+  <img src="Imagenes/RespSisControlAzm.png" width="400"/>
+  <img src="Imagenes/RespSisControlElv.png" width="400"/>
 </div>
 
 ## Instrucciones
