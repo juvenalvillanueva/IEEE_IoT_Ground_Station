@@ -8,18 +8,17 @@ Recursos y documentación adicional para el manuscrito "An IoT Ground Station: M
 
    a) El archivo Turstile.s1p es un archivo generado por un analizador vectorial redes (VNA) que contiene el parámetro S de 1 puerto (S11) medido en el laboratorio.
    
-   b) El archivo turstile.nec es un archivo generado en el software libre 4NEC2 par simulación de la antena. El software que puede ser descargado en:https://www.qsl.net/4nec2/.
+   b) El archivo turstile.nec es un archivo generado en el software libre 4NEC2 para simulación de la antena. El software puede ser descargado en:https://www.qsl.net/4nec2/.
    
-3. Sistema Mecánico: Se encuentran los archivos del diseño de cada una de las piezas que conforman al sistema mecánico, sus medidas y manera de ensamblar.
-4. PID: El código de programación utilizado en el proyecto esta diseñado para la plataforma de Arduino.
+2. Sistema Mecánico: aquí se encuentran los archivos del diseño de cada una de las piezas que conforman al sistema mecánico, sus medidas y manera de ensamblar.
+3. PID: El código de programación utilizado en el proyecto esta diseñado para la plataforma de Arduino.
 
 ## Requerimientos
 
 - Sistema operativo Windows.
 - Microsoft Excel.
-- Alguna reciente versión de Matlab con el “RF Toolbox” instalado.
-- b)	Última versión de 4NEC2.
-- Matlab 2018 o posteriores.
+- Matlab 2018 o posteriores con el “RF Toolbox” instalado.
+- Última versión de 4NEC2.
 - SolidWorks 2018 o posteriores.
 - Plataforma de Arduino.
 
@@ -48,3 +47,4 @@ help rfplot
 - https://www.youtube.com/watch?v=vaLx3_F6-b4
 - https://www.youtube.com/watch?v=T5hyCiytaFk
 
+2. Se presentan los archivos .SLDRD 
